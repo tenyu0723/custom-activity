@@ -1,0 +1,15 @@
+{
+  "name": "auto-status-changer",
+  "version": "0.0.0",
+  "description": "An auto status changer on discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.x.x",
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
