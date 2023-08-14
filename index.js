@@ -22,12 +22,12 @@ client.on("ready", () => {
   const r = new RichPresence()
   .setApplicationId('817229550684471297')  //いじらないでね
   .setType('PLAYING') // PLAYING:プレイ中 WATCHING:視聴中 STREAMING:配信中
-	.setName('Name') //アクティビティの名前(タイトル)
-	.setDetails('Detail') //アクティビティの説明(長すぎない方がいい)
-	.setStartTimestamp(Date.now())  //いじらないでね
-	.setAssetsLargeImage('mp:attachments/1138762211465117727/1140543857679937687/McVkTazCaveLwqoDuX_E7ayTgdK4DPbrKCGcPSIZT4b783j6HJvJYu0uxQAuzCw7BCs.png') //画像の設定方法はreadme.mdを参照
-	.setAssetsLargeText('Image txt') //画像に込める文字
-	.addButton('ボタンの表示テキスト', '押したときのリンク') //ボタンを追加する処理(コピペすれば複数可能)
+  .setName('Name') //アクティビティの名前(タイトル)
+  .setDetails('Detail') //アクティビティの説明(長すぎない方がいい)
+  .setStartTimestamp(Date.now())  //いじらないでね
+  .setAssetsLargeImage('mp:attachments/1138762211465117727/1140543857679937687/McVkTazCaveLwqoDuX_E7ayTgdK4DPbrKCGcPSIZT4b783j6HJvJYu0uxQAuzCw7BCs.png') //画像の設定方法はreadme.mdを参照
+  .setAssetsLargeText('Image txt') //画像に込める文字
+  .addButton('ボタンの表示テキスト', '押したときのリンク') //ボタンを追加する処理(コピペすれば複数可能)
   client.user.setActivity(r);
 });
 
