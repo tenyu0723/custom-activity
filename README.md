@@ -11,4 +11,4 @@ TOKENに自分のTOKENを代入してください
 サンプルurl:https://media.discordapp.net/attachments/1138762211465117727/1140543857679937687/McVkTazCaveLwqoDuX_E7ayTgdK4DPbrKCGcPSIZT4b783j6HJvJYu0uxQAuzCw7BCs.png<br>
 ① 設定したい画像をどこでもいいからDiscordに送信<br>
 ② 画像のプレビュー画面からブラウザで開くを選択<br>
-③ リンクをコピーしてリンクのhttps://cdn.discordapp.com/またはhttps://media.discordapp.net/の部分をmp:にして入力してください<br>
+③ リンクをコピーしてリンクの`https://cdn.discordapp.com/`または`https://media.discordapp.net/`の部分をmp:にして入力してください<br>
