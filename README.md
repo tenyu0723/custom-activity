@@ -13,5 +13,7 @@ TOKENに自分のTOKENを代入してください
 ② 画像のプレビュー画面からブラウザで開くを選択<br>
 ③ リンクをコピーしてリンクの`https://cdn.discordapp.com/`または`https://media.discordapp.net/`の部分をmp:にして入力してください<br>
 ```diff
-+ a
+* サンプルurlの場合
+- https://media.discordapp.net/attachments/1138762211465117727/1140543857679937687/McVkTazCaveLwqoDuX_E7ayTgdK4DPbrKCGcPSIZT4b783j6HJvJYu0uxQAuzCw7BCs.png
++ mp:1138762211465117727/1140543857679937687/McVkTazCaveLwqoDuX_E7ayTgdK4DPbrKCGcPSIZT4b783j6HJvJYu0uxQAuzCw7BCs.png
 ```
