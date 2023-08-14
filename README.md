@@ -12,3 +12,6 @@ TOKENに自分のTOKENを代入してください
 ① 設定したい画像をどこでもいいからDiscordに送信<br>
 ② 画像のプレビュー画面からブラウザで開くを選択<br>
 ③ リンクをコピーしてリンクの`https://cdn.discordapp.com/`または`https://media.discordapp.net/`の部分をmp:にして入力してください<br>
+```diff
++ a
+```
